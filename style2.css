@@ -1,0 +1,42 @@
+#q{
+    background: url(https://sslimages.shoppersstop.com/sys-master/root/h02/hc9/27108367990814/stop-men-navigation-banner.jpg);
+    color: blue;
+}
+
+.carousel-inner .header{
+    font-size: 60px !important;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.footer{
+    background-color: aqua;
+    font: 100;
+    font-family: sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    padding: auto;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: rgb(166, 99, 11);
+    font-weight: 600;
+}
+.carousel-inner{
+ background-attachment: fixed;
+ background-image: -moz-repeating-radial-gradient();
+}
+#navbarNav{
+    color: black;
+}
+.card-body {
+    color: rgb(166, 99, 11);
+    font-family: 'Times New Roman', Times, serif;
+}
+#s{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(166, 99, 11);
+}
+#content{
+    color: rgb(166, 99, 11);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
